@@ -64,7 +64,7 @@ $(document).ready(function () {
 
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
-    document.title = "Portfolio | Jigar Sable";
+    document.title = "Portfolio | Rio Miftahul Huda";
     $("#favicon").attr("href", "assets/images/profile 3.png");
   } else {
     document.title = "Come Back To Portfolio";
